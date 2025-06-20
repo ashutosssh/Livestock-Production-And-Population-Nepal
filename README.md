@@ -81,7 +81,3 @@ A **classification model** was developed using Scikit-Learn to:
 🔗 [GitHub Profile](https://github.com/ashutosssh)
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
